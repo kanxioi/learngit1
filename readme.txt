@@ -17,4 +17,6 @@ han e
 
 tyr 1
 
-try 2    大胆 
+try 2    大胆
+
+try 3 new
