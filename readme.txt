@@ -9,4 +9,8 @@ zhen d e shi shi hua .
 
 Creating a new branch is quick AND simpl
 
+<<<<<<< HEAD
 xiao e
+=======
+han e
+>>>>>>> han
