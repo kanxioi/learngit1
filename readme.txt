@@ -15,4 +15,6 @@ xiao e
 han e
 >>>>>>> ha
 
-tyr 1 
+tyr 1
+
+try 2    大胆 
